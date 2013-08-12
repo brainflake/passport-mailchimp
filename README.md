@@ -48,11 +48,9 @@ application:
 
 ## Credits
 
-  - [Brian Falk](http://github.com/brainflake)
+Created by [Brian Falk](http://github.com/brainflake)
 
-Code based on passport-facebook by
-
-  - [Jared Hanson](http://github.com/jaredhanson)
+Code based on passport-facebook by [Jared Hanson](http://github.com/jaredhanson)
 
 ## License
 
