@@ -1,0 +1,10 @@
+README.md
+Makefile
+test/
+
+.DS_Store
+
+.npmignore
+node_modules/
+
+.git*
