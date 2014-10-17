@@ -1,25 +1,26 @@
 {
   "name": "passport-mailchimp",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mailchimp authentication strategy for Passport.",
-  "keywords": ["mailchimp", "passport", "auth", "authentication"],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/brainflake/passport-mailchimp.git"
-  },
+  "keywords": [
+    "mailchimp",
+    "passport",
+    "auth",
+    "authentication"
+  ],
+  "repository": "",
   "main": "lib/passport-mailchimp/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
   "author": {
     "name": "Brian Falk",
     "email": "falk@logicparty.org"
   },
   "license": "BSD",
   "dependencies": {
-    "passport-oauth": "~0.1.15",
-    "pkginfo": "~0.3.0"
+    "passport-oauth2": "^1.1.2",
+    "pkginfo": "^0.3.0"
   },
   "devDependencies": {
     "vows": "0.7.0"
