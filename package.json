@@ -17,7 +17,7 @@
     "name": "Brian Falk",
     "email": "falk@logicparty.org"
   },
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
     "passport-oauth2": "^1.1.2",
     "pkginfo": "^0.3.0"
